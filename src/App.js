@@ -3,7 +3,7 @@ import Recipe from "./Recipe";
 import './App.css';
 import './index.css';
 const api = {
-  key: "0fcac4bd82cc4a97998283bfcbecdd0f",
+  key: "",
   base: "https://api.spoonacular.com/recipes/search?query=cheese&number=2"
 }
 
